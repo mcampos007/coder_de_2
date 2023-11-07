@@ -1,0 +1,29 @@
+[
+	{
+		"title": "Nafta Super",
+		"description": "Producto de 95 Octanos",
+		"price": 488.5,
+		"thumbnail": "img001",
+		"code": "01-01",
+		"stock": 15000,
+		"id": 1
+	},
+	{
+		"title": "Nuevo producto",
+		"description": "Producto de 98 Octanos",
+		"price": 599.99,
+		"thumbnail": "img002",
+		"code": "01-02",
+		"stock": 20000,
+		"id": 2
+	},
+	{
+		"title": "Quantium Diesel",
+		"description": "Producto de 100 Octanos",
+		"price": 750.5,
+		"thumbnail": "img003",
+		"code": "01-03",
+		"stock": 10000,
+		"id": 3
+	}
+]
